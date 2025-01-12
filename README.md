@@ -174,11 +174,18 @@ What are the drugs used for pain relief?
 List the drugs involved in cholesterol biosynthesis inhibition.
 
 Combination Queries
+
 What are the side effects and availability of Atorvastatin?
+
 How much does Warfarin cost, and how many units are available?
+
 What is the target and mechanism of action of Amoxicillin?
 
+
 Advanced Queries
+
 What are the similarities between Paracetamol and Aspirin?
+
 Which drugs act on the Central Nervous System?
+
 What is the pathway most associated with blood pressure regulation?
