@@ -59,6 +59,7 @@ query AskQuestion {
 }
 ________________________________________
 Example Questions to Try
+
 •	What drugs are available?
 •	What is the price of Ibuprofen?
 •	What are the side effects of Paracetamol?
@@ -104,22 +105,30 @@ initiate using
 modus dev
 
 
-Example questions to try
+
 Example Questions to Try
+
 •	What drugs are available?
+
 •	What is the price of Ibuprofen?
+
 •	What are the side effects of Paracetamol?
-•	Show me the chemical structure of Metformin.
+
+
 •	What is the mechanism of action of Rosuvastatin?
+
 More question you can ask
 
 Drug Availability
 
 What is the availability of Metformin?
+
 How many units of Caffeine are available?
+
 Do we have Losartan in stock?
 
 Pricing Information
+
 What is the price per unit of Atorvastatin?
 How much does Paracetamol cost?
 What is the most expensive drug available?
