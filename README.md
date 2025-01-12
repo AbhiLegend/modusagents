@@ -102,3 +102,55 @@ python -m http.server 8000
 For backend 
 initiate using
 modus dev
+
+
+Example questions to try
+Example Questions to Try
+•	What drugs are available?
+•	What is the price of Ibuprofen?
+•	What are the side effects of Paracetamol?
+•	Show me the chemical structure of Metformin.
+•	What is the mechanism of action of Rosuvastatin?
+More question you can ask
+
+Drug Availability
+
+What is the availability of Metformin?
+How many units of Caffeine are available?
+Do we have Losartan in stock?
+
+Pricing Information
+What is the price per unit of Atorvastatin?
+How much does Paracetamol cost?
+What is the most expensive drug available?
+Target and Mechanism of Action
+What is the target of Aspirin?
+How does Ibuprofen work?
+What is the mechanism of action of Rosuvastatin?
+
+Drug Side Effects
+What are the side effects of Simvastatin?
+Does Levothyroxine have any side effects?
+List the potential side effects of Warfarin.
+
+Pathways
+Which pathways does Metformin act on?
+What are the pathways associated with Clopidogrel?
+Explain the pathway linked to Omeprazole.
+
+General Queries
+What drugs are available in the database?
+What attributes can I query about a drug?
+Which drugs target Cyclooxygenase (COX)?
+What are the drugs used for pain relief?
+List the drugs involved in cholesterol biosynthesis inhibition.
+
+Combination Queries
+What are the side effects and availability of Atorvastatin?
+How much does Warfarin cost, and how many units are available?
+What is the target and mechanism of action of Amoxicillin?
+
+Advanced Queries
+What are the similarities between Paracetamol and Aspirin?
+Which drugs act on the Central Nervous System?
+What is the pathway most associated with blood pressure regulation?
