@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drug Discovery Assistant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Drug Discovery Assistant</h1>
+
+   <!-- Search Section -->
+<div id="search-section">
+  <h2>Ask a Question</h2>
+  <input
+    type="text"
+    id="search-query"
+    placeholder="Enter your question (e.g., 'What is the availability of Aspirin?')"
+  />
+  <button id="search-button">Search</button>
+  <div id="search-result">
+    <!-- Search results will be displayed here -->
+  </div>
+  <div id="logs-section" style="display: none;">
+    <!-- Logs will be displayed here -->
+  </div>
+</div>
+
+    <!-- Query Section -->
+    <div id="query-section">
+      <h2>Query Drug Information</h2>
+      <input type="text" id="drug-name" placeholder="Enter Drug Name" />
+      <select id="attribute">
+        <option value="">Select Attribute</option>
+        <option value="availability">Availability</option>
+        <option value="price_per_unit">Price Per Unit</option>
+        <option value="target">Target</option>
+        <option value="mechanism_of_action">Mechanism of Action</option>
+        <option value="phase">Phase</option>
+        <option value="side_effects">Side Effects</option>
+        <option value="pathways">Pathways</option>
+      </select>
+      <button id="fetch-drug-info">Get Info</button>
+      <p id="drug-info-result"></p>
+    </div>
+
+    <!-- Drug List Section -->
+    <div id="drug-list-section">
+      <h2>Available Drugs</h2>
+      <button id="fetch-drug-list">Fetch Drug List</button>
+      <ul id="drug-list"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
